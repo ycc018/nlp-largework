@@ -1,0 +1,6 @@
+{
+  "gears": [
+    {"teeth": 20, "module_mm": 1, "pressure_angle_deg": 20, "width_mm": 5, "center_mm": [0, 0, 0], "joint": "revolute_z"},
+    {"teeth": 40, "module_mm": 1, "pressure_angle_deg": 20, "width_mm": 5, "center_mm": [35, 0, 0], "joint": "revolute_z"}
+  ]
+}
